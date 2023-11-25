@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.b{
+    background-image: url(images/construction.jpg);
+    height: 100dvh;
+
+}
